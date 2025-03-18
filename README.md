@@ -9,11 +9,8 @@
 
 ## Projects:
 
-### 1. [Project Name 1](https://github.com/Likhitha3221/IBM-HR-DATA-SET.git)
-# HR Data Analytics Portfolio  
-This repository showcases my HR analytics projects, including attrition analysis, employee engagement insights, and predictive modeling.  
+### 1. [Project Name 1](https://github.com/Likhitha3221/IBM-HR-DATA-SET.git) 
 
-## 📂 Project 1: IBM HR Attrition Analysis  
 **Objective:** Identify key factors influencing employee attrition and predict likelihood of employees leaving.  
 **Key Findings:**  
 - Low job satisfaction (1-2) → **38% higher chance of leaving**  
