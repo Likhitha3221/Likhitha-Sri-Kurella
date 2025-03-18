@@ -22,11 +22,11 @@
 - **Technologies Used**: Python, Tableau, Power BI
 
 ## Skills
-Data Analysis & Visualization: Excel, SQL, PostgreSQL, MySQL, Python, R, Power BI, Tableau.
-Machine Learning & AI: ML Modeling, Time-series Analysis, Neural Networks, Random Forest.
-Cloud Platforms: AWS,Azure.
-HR Analysis & Project Management: Visier,Qualtrics,DreamTeam,Jira.
-Other: Git, Jupyter Notebooks, Wolfram Notebooks.
+Data Analysis & Visualization: Excel, SQL, PostgreSQL, MySQL, Python, R, Power BI, Tableau./
+Machine Learning & AI: ML Modeling, Time-series Analysis, Neural Networks, Random Forest./
+Cloud Platforms: AWS,Azure./
+HR Analysis & Project Management: Visier,Qualtrics,DreamTeam,Jira./
+Other: Git, Jupyter Notebooks, Wolfram Notebooks./
 
 
 ## Contact Me:
