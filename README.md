@@ -9,7 +9,7 @@
 
 ## 🚀 Featured Projects:
 
-### 1. [Project Name 1](link-to-project-repo)
+### 1. [Project Name 1](https://github.com/Likhitha3221/IBM-HR-DATA-SET.git)
 - **Description**: Briefly explain what the project is about.
 - **Technologies Used**: Python, R, Tableau
 
