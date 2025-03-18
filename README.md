@@ -9,7 +9,7 @@
 
 ## Projects:
 
-### 1. [Project Name 1](https://github.com/Likhitha3221/IBM-HR-DATA-SET.git) 
+### 1. [Attrition Analysis](https://github.com/Likhitha3221/IBM-HR-DATA-SET.git) 
 
 **Objective:** Identify key factors influencing employee attrition and predict likelihood of employees leaving.  
 **Key Findings:**  
