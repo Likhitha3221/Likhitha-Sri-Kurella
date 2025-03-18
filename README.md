@@ -2,12 +2,12 @@
 
 "Hi there! I'm Likhitha, a passionate HR data analyst and business analytics professional. In this repository, I showcase my projects and work across various domains, such as HR analysis and business analysis.
 
-## 🎓 Education:
+##  Education:
 - **Master of Science in Business Analytics** (May 2025) — University of Illinois Urbana-Champaign (UIUC)
 - **MBA in HR*(May 2023)* — Welingkar Institute of Management
 - **Bachelor of Commerce*(May 2020)-Osmania University
 
-## 🚀 Featured Projects:
+## Projects:
 
 ### 1. [Project Name 1](https://github.com/Likhitha3221/IBM-HR-DATA-SET.git)
 - **Description**: Briefly explain what the project is about.
@@ -31,4 +31,4 @@ Other: Git, Jupyter Notebooks, Wolfram Notebooks
 
 ## Contact Me:
 - [LinkedIn](https://www.linkedin.com/in/likhithasrik/)
-- [Email}(likhithasrikurella2@gmail.com)
+- [Email](likhithasrikurella2@gmail.com)
