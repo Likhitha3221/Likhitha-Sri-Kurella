@@ -11,7 +11,7 @@
 
 ### 1. [Project Name 1](https://github.com/Likhitha3221/IBM-HR-DATA-SET.git)
 - **Description**: Briefly explain what the project is about.
-- **Technologies Used**: Python, R, Tableau
+- **Technologies Used**: Python.
 
 ### 2. [Project Name 2](link-to-project-repo)
 - **Description**: Briefly explain what the project is about.
