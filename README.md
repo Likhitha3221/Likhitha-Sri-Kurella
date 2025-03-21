@@ -22,13 +22,13 @@
 
 ### 2. [Performance Trends](https://github.com/Likhitha3221/Performance-Trends.git)
 **Objective**: Analyze employee performance trends to identify key factors influencing performance and service length, providing insights for HR decision-making.
-**Key Findings**:
+**Key Findings:**
 - Employees with longer service tend to perform better, with higher previous year ratings.
 - Average training scores vary across departments, impacting performance trends.
 - Employees meeting more than 80% of KPIs show higher retention and better ratings.
 - Employees with awards generally have higher performance scores.
 - Certain recruitment channels contribute to better employee performance over time.
-- **Technologies Used**: Python, Tableau
+**Technologies Used**: Python, Tableau
 
 ### 3. [Project Name 3](link-to-project-repo)
 - **Description**: Briefly explain what the project is about.
