@@ -4,19 +4,21 @@
 
 ##  Education:
 - **Master of Science in Business Analytics** (May 2025) — University of Illinois Urbana-Champaign (UIUC)
-- **MBA in HR*(May 2023)* — Welingkar Institute of Management
-- **Bachelor of Commerce*(May 2020)-Osmania University
+- **MBA in HR*(May 2023)** — Welingkar Institute of Management
+- **Bachelor of Commerce**-(May 2020)-Osmania University
 
 ## Projects:
 
 ### 1. [Attrition Analysis](https://github.com/Likhitha3221/IBM-HR-DATA-SET.git) 
 
-**Objective:** Identify key factors influencing employee attrition and predict likelihood of employees leaving.  
+**Objective:** Identify key factors influencing employee attrition and predict likelihood of employees leaving.
+
 **Key Findings:**  
 - Low job satisfaction (1-2) → **38% higher chance of leaving**  
 - Poor work-life balance (1) → **39% attrition rate**  
 - Employees earning < $3,000/month → **40% attrition rate**  
 - Model Accuracy → **78.4%**
+  
 **Technologies used **: Python
 
 
