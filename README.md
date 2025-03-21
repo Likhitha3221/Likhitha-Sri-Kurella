@@ -1,6 +1,6 @@
 # Likhitha-Sri-Kurella
 
-"Hi there! I'm Likhitha, a passionate HR data analyst and business analytics professional. In this repository, I showcase my projects and work across various domains, such as HR analysis and business analysis.
+Motivated analytical professional eager to gain hands-on experience in innovation ideation, process improvement, and data analysis. Passionate about contributing to real-world projects, participating in ideation sessions, and developing valuable problem-solving skills in a dynamic environment. Strong background in business analytics and workforce analytics, with expertise in data-driven decision-making.
 
 ##  Education:
 - **Master of Science in Business Analytics** (May 2025) — University of Illinois Urbana-Champaign (UIUC)
