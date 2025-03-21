@@ -34,7 +34,7 @@ Motivated analytical professional eager to gain hands-on experience in innovatio
 
 **Technologies Used**: Python, Tableau
 
-### 3. [Project Name 3](link-to-project-repo)
+### 3. [JSON Restaurant Data](link-to-project-repo)
 - **Description**: Briefly explain what the project is about.
 - **Technologies Used**: Python, Tableau, Power BI
 
