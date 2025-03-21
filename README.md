@@ -4,7 +4,7 @@
 
 ##  Education:
 - **Master of Science in Business Analytics** (May 2025) — University of Illinois Urbana-Champaign (UIUC)
-- **MBA in HR*(May 2023)** — Welingkar Institute of Management
+- **MBA in HR** — Welingkar Institute of Management
 - **Bachelor of Commerce**-(May 2020)-Osmania University
 
 ## Projects:
