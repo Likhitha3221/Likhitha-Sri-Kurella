@@ -34,9 +34,25 @@ Motivated analytical professional eager to gain hands-on experience in innovatio
 
 **Technologies Used**: Python, Tableau
 
-### 3. [JSON Restaurant Data](link-to-project-repo)
-- **Description**: Briefly explain what the project is about.
-- **Technologies Used**: Python, Tableau, Power BI
+### 3. [JSON Restaurant Data](https://github.com/Likhitha3221/Restaurant-Data-.git)
+**Objective:**
+To analyze restaurant data from Kaggle by extracting JSON-formatted data, transforming it into a structured format, and storing it in Azure SQL Database. The project aimed to derive actionable insights using SQL queries for data-driven decision-making in the restaurant industry.
+
+**Key Findings:**
+
+- Successfully integrated JSON restaurant data into Azure SQL Database for efficient querying and analysis.
+- Identified top-rated restaurants, popular cuisines, and customer preferences based on reviews and ratings.
+- Analyzed price distribution across different restaurant categories to understand market positioning.
+- Discovered geographic patterns in restaurant locations and customer reviews, aiding location-based decision-making.
+- Improved data accessibility and usability by transforming unstructured JSON data into a structured SQL format.
+
+**Technologies Used**:
+Python – For extracting and processing JSON data
+Pandas – For data transformation and cleaning
+Azure SQL Database – For storing and managing structured data
+SQL – For querying and analyzing restaurant data
+Azure Data Studio – For database management and query execution
+JSON – For handling raw restaurant data from Kaggle
 
 ## Skills 
 
