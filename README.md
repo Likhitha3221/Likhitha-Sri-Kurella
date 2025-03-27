@@ -38,6 +38,7 @@ Motivated analytical professional eager to gain hands-on experience in innovatio
 **Objective:**
 To analyze restaurant data from Kaggle by extracting JSON-formatted data, transforming it into a structured format, and storing it in Azure SQL Database. The project aimed to derive actionable insights using SQL queries for data-driven decision-making in the restaurant industry.
 
+
 **Key Findings:**
 
 - Successfully integrated JSON restaurant data into Azure SQL Database for efficient querying and analysis.
