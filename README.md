@@ -8,8 +8,20 @@ Motivated analytical professional eager to gain hands-on experience in innovatio
 - **Bachelor of Commerce**-(May 2020)-Osmania University
 
 ## Projects:
+### 1. [Employee Engagement Dashboard]() 
+People Analytics Dashboard
+Transforming raw HR data into meaningful insights has never been easier! This project provides an interactive People Analytics dashboard, enabling HR professionals, business leaders, and analysts to explore workforce trends without needing advanced data science expertise.
 
-### 1. [Attrition Analysis](https://github.com/Likhitha3221/IBM-HR-DATA-SET.git) 
+Key Features:
+Employee Demographics Analysis – Understand workforce distribution by age, gender, tenure, and department.
+Attrition Insights – Identify trends and factors influencing employee turnover.
+Diversity & Inclusion Metrics – Analyze gender representation and workforce diversity.
+Performance & Engagement Analytics – Explore job satisfaction, performance scores, and salary trends.
+Predictive Modeling – Leverage machine learning to predict attrition risks.
+  
+**Technologies used **: Python,Streamlit
+
+### 2. [Attrition Analysis](https://github.com/Likhitha3221/IBM-HR-DATA-SET.git) 
 
 **Objective:** Identify key factors influencing employee attrition and predict likelihood of employees leaving.
 
