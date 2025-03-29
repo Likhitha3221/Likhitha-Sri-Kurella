@@ -20,6 +20,7 @@ Performance & Engagement Analytics – Explore job satisfaction, performance sco
 Predictive Modeling – Leverage machine learning to predict attrition risks.
   
 **Technologies used **: Python,Streamlit
+**App Link**(https://lnkd.in/gWx_NbJF)
 
 ### 2. [Attrition Analysis](https://github.com/Likhitha3221/IBM-HR-DATA-SET.git) 
 
