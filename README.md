@@ -8,7 +8,7 @@ Motivated analytical professional eager to gain hands-on experience in innovatio
 - **Bachelor of Commerce**-(May 2020)-Osmania University
 
 ## Projects:
-### 1. [Employee Engagement Dashboard]() 
+### 1. [Employee Engagement Dashboard](https://github.com/Likhitha3221/Employee-Engagement-Dashboard.git) 
 People Analytics Dashboard
 Transforming raw HR data into meaningful insights has never been easier! This project provides an interactive People Analytics dashboard, enabling HR professionals, business leaders, and analysts to explore workforce trends without needing advanced data science expertise.
 
