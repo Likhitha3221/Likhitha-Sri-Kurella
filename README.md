@@ -22,7 +22,7 @@ Predictive Modeling – Leverage machine learning to predict attrition risks.
 **Technologies used **: Python,Streamlit
 **App Link**(https://lnkd.in/gWx_NbJF)
 
-1. [Crypto Token Analysis Using Dune Analytics]() 
+2.### [Crypto Token Analysis Using Dune Analytics]() 
 
 🔹 On-chain analytics for SMOLE, BONK, and DASHA using Dune Analytics
 🔹 Trading activity, holder distribution, and liquidity trends analysis
