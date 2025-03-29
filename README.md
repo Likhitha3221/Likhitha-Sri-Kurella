@@ -22,6 +22,14 @@ Predictive Modeling – Leverage machine learning to predict attrition risks.
 **Technologies used **: Python,Streamlit
 **App Link**(https://lnkd.in/gWx_NbJF)
 
+1. [Crypto Token Analysis Using Dune Analytics]() 
+
+🔹 On-chain analytics for SMOLE, BONK, and DASHA using Dune Analytics
+🔹 Trading activity, holder distribution, and liquidity trends analysis
+🔹 SQL-based queries to extract blockchain insights
+🔹 Interactive dashboards for real-time data visualization
+🔹 Helps investors and analysts understand token movements & market trends
+
 ### 2. [Attrition Analysis](https://github.com/Likhitha3221/IBM-HR-DATA-SET.git) 
 
 **Objective:** Identify key factors influencing employee attrition and predict likelihood of employees leaving.
