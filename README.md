@@ -26,15 +26,15 @@ Predictive Modeling – Leverage machine learning to predict attrition risks.
 
 **Key Highlights**
 
-📊 On-chain analytics for SMOLE, BONK, and DASHA using Dune Analytics
+On-chain analytics for SMOLE, BONK, and DASHA using Dune Analytics
 
-🔍 Trading activity, holder distribution, and liquidity trends analysis
+Trading activity, holder distribution, and liquidity trends analysis
 
-🛠 SQL-based queries to extract blockchain insights
+SQL-based queries to extract blockchain insights
 
-📈 Interactive dashboards for real-time data visualization
+Interactive dashboards for real-time data visualization
 
-📊 Helps investors and analysts understand token movements & market trends
+Helps investors and analysts understand token movements & market trends
 
 ### 2. [Attrition Analysis](https://github.com/Likhitha3221/IBM-HR-DATA-SET.git) 
 
